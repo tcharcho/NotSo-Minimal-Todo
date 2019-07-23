@@ -19,17 +19,12 @@ The long-term vision for the application is to make it collabortaive. Users will
 
 ## Before
 
-<!-- <p float="left">
-  <img src="/screenshots/main_empty_light.png" width="100" />
-  <img src="/screenshots/add_todo_light.png" width="100" />
-</p> -->
-
-<img src="/screenshots/main_empty_light.png" height="400px"/> <img src="/screenshots/add_todo_light.png" height="400px"/>
-
+<img src="/screenshots/main_empty_light.png" height="400px"/> <img src="/screenshots/add_todo_light.png" height="400px"/> <img src="/screenshots/main_full_light.png" height="400px"/>
 
 ### Dark Mode
 
-<!-- <img src="/screenshots/add_todo_dark.png" height="400px"/> -->
+<img src="/screenshots/main_empty_dark.png" height="400px"/> <img src="/screenshots/add_todo_dark.png" height="400px"/> <img src="/screenshots/main_full_dark.png" height="400px"/>
+
 
 ## After
 
