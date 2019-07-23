@@ -1,42 +1,15 @@
-# Minimal ![Build Status](https://travis-ci.org/avjinder/Minimal-Todo.svg?branch=master)
+# NotSo Minimal ToDo
 
-<img src="/screenshots/app_icon.png" height="200px"/> <br>
-A fully Material ToDo app with minimal features, just enough to be useful.
+This application extends the existing [Minimal ToDo](https://github.com/avjinder/Minimal-Todo) Android application.
 
+The vision behind the project was that the new application would serve as a light weight, collaborative app for planning and organizing tasks. It could be used to create a grocery list, a daily todo list, or even a detailed list for the purpose of project management.
 
-# Screenshots:
-<img src="/screenshots/main_empty_light.png" height="400px"/> <img src="/screenshots/main_empty_dark.png" height="400px"/>
-<img src="/screenshots/main_full_light.png" height="400px"/><img src="/screenshots/main_full_dark.png" height="400px"/>
-<img src="/screenshots/add_todo_light.png" height="400px"/>
-<img src="/screenshots/add_todo_dark.png" height="400px"/>
-<img src="screenshots/screenshot_reminder_date.png" height="400px"/>
-<img src="screenshots/screenshot_reminder_time.png" height="400px"/>
-<img src="screenshots/todo_date_dark.png" height="400px"/>
-<img src="screenshots/todo_time_dark.png" height="400px"/>
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_notification.png" height="400px"/>
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_todo_snooze.png" height="400px"/>
+The main change that was made was the addition of a higher hierarchical layer: users are able to create boards, in which they can create tasks/ todos. The boards serve as a way to organize and separate tasks. This improves the quality of the app both visually and functionally.
 
-## Download
-<a href="https://play.google.com/store/apps/details?id=com.avjindersinghsekhon.minimaltodo&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
+Previously, tasks had a name, description, date, and an option for a reminder. A second date was added to distinguish between the due date and the reminder date. The option to set a priority for each task was also added. The user could choose between "low", "medium", and "high".
+Users did not previously have the option to check tasks as completed. They could only delete tasks. The option to check tasks off was added, as well as the option to hide and show completed tasks. Now users can have a clean view of the tasks that they need to complete, but also have the option to view previously completed tasks.
 
-
-
-
-## App Icon
-Designed by [Christopher Gundersen](cgundersen2020@gmail.com)
-## Translations
-* Spanish by [nanopc](https://github.com/nanopc) <br>
-* German by [kaiwinter](https://github.com/kaiwinter) <br>
-* Polish by [piotrek1543](https://github.com/piotrek1543) <br>
-* Finnish by [Miikka Andersson](https://github.com/miikande) <br>
-* French by [Nicola Spanti](http://www.nicola-spanti.info/)
-* Bulgarian by [Georgy Hristov](http://www.georgyhristov.xyz/) <br>
-* Vietnamese by [Susan Truong](https://github.com/susantruong)
-
-## Contributing
-Looking to contribute something to Minimal? [Here's how you can help](/Contributing.md).
-
+The long-term vision for the application is to make it collabortaive. Users will be able to create accounts and the information will be stored in a database. They will have the option of sharing boards with and assigning tasks to the other users in the system.
 
 # License:
 The MIT License (MIT)
