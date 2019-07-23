@@ -34,11 +34,12 @@ The long-term vision for the application is to make it collabortaive. Users will
 
 #### Board Views
 
-<img src="/screenshots/new/todos_on_board.png" height="350"/> <img src="/screenshots/new/completed_todos.png" height="350"/> <img src="/screenshots/new/hide_completed.png" height="350"/> <img src="/screenshots/new/completed_tasks_hidden.png" height="350"/> <img src="/screenshots/new/show_completed_light.png" height="350"/>
+<img src="/screenshots/new/todos_on_board.png" height="350"/> <img src="/screenshots/new/completed_todos.png" height="350"/> <img src="/screenshots/new/hide_completed.png" height="350"/> <img src="/screenshots/new/completed_tasks_hidden.png" height="350"/> <img src="/screenshots/new/show_completed_light.png" height="350"/> <img src="/screenshots/new/boards_list_light.png" height="350"/>
 
-#### All Boards
+### Dark Mode
 
-<img src="/screenshots/new/boards_list_light.png" height="350"/>
+<img src="/screenshots/new/create_todo_dark.png" height="350"/> <img src="/screenshots/new/show_completed_dark.png" height="350"/> <img src="/screenshots/new/boards_list_dark.png" height="350"/>
+
 
 # License:
 The MIT License (MIT)
