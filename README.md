@@ -11,6 +11,19 @@ Users did not previously have the option to check tasks as completed. They could
 
 The long-term vision for the application is to make it collabortaive. Users will be able to create accounts and the information will be stored in a database. They will have the option of sharing boards with and assigning tasks to the other users in the system.
 
+
+
+
+
+# Screenshots
+
+## Before
+
+<img src="/screenshots/add_todo_dark.png" height="400px"/>
+
+## After
+
+
 # License:
 The MIT License (MIT)
 
