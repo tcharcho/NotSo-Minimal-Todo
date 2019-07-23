@@ -29,7 +29,7 @@ The long-term vision for the application is to make it collabortaive. Users will
 
 ### Dark Mode
 
-<img src="/screenshots/add_todo_dark.png" height="400px"/>
+<!-- <img src="/screenshots/add_todo_dark.png" height="400px"/> -->
 
 ## After
 
